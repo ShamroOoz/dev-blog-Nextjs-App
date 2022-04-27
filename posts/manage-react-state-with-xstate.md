@@ -1,15 +1,12 @@
 ---
-title: 'Manage React State With XState'
-date: 'May 15, 2021'
-excerpt: 'The most straightforward way of using XState with React is through local component state'
-cover_image: '/images/posts/img8.jpg'
-category: 'JavaScript'
-author: 'Sam Smith'
-author_image: 'https://randomuser.me/api/portraits/men/18.jpg'
+title: "Manage React State With XState"
+date: "May 15, 2021"
+excerpt: "The most straightforward way of using XState with React is through local component state"
+cover_image: "/images/posts/img8.jpg"
+category: "JavaScript"
+author: "Sam Smith"
+author_image: "https://randomuser.me/api/portraits/men/18.jpg"
 ---
-
-<!-- https://jaspervdj.be/lorem-markdownum/ -->
-<!-- show emmet config -->
 
 Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
 haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter
